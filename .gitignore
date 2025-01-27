@@ -1,5 +1,12 @@
 ######################## Python ########################
 
+src/main/python/Scripts/
+src/main/python/share/
+# Ignore Jupyter-related config
+src/main/python/etc/jupyter/
+
+# Ignore Python virtual environment
+src/main/python/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
